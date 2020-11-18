@@ -79,7 +79,7 @@ body {
   text-decoration-color: #243b05;
   background-color: #1a1a1a;
   padding: 10px;
-  animation-name: oga;
+  animation-name:oga;
   animation-duration: 0.5s;
   animation-iteration-count: infinite;
 }
@@ -91,7 +91,7 @@ ul {
   background-color: #333;
   margin: 0px;    
 }
-@keyframes og {
+@keyframes oga {
   0%   {background-color:red; left:0px; top:0px;}
   25%  {background-color:yellow; left:200px; top:0px;}
   50%  {background-color:blue; left:200px; top:200px;}
